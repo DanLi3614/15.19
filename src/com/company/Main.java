@@ -9,6 +9,7 @@ public class Main
     {
         Scanner gg=new Scanner(System.in);
         int b=gg.nextInt();
-
+        int q=gg.nextInt();
+        int f=gg.nextInt();
     }
 }
